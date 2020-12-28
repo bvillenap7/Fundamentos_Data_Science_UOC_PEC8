@@ -1,0 +1,23 @@
+Origen;Final;Distancia
+Figueres;Girona;48
+Girona;Barcelona;104
+Barcelona;Tarragona;100
+Tarragona;Lleida;100
+Lleida;Zaragoza;152
+Zaragoza;Huesca;74
+Zaragoza;Guadalajara;257
+Guadalajara;Madrid;62
+Madrid;Cuenca;166
+Cuenca;Valencia;201
+Valencia;Castellón;73
+Cuenca;Albacete;164
+Albacete;Alicante;167
+Madrid;Ciudad Real;190
+Ciudad Real;Córdoba;192
+Córdoba;Sevilla;141
+Córdoba;Antequera;115
+Antequera;Málaga;51
+Antequera;Granada;103
+Madrid;Segovia;91
+Segovia;Valladolid;116
+Valladolid;León;138
